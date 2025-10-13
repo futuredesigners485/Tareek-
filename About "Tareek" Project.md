@@ -1,1 +1,1 @@
-"Tareeq" is an innovative system that facilitates transportation in major cities. It provides real-time information about microbuses and their routes, helping users reach their destinations easily and with minimal effort and time.
+"Tareek" is an innovative system that facilitates transportation in major cities. It provides real-time information about microbuses and their routes, helping users reach their destinations easily and with minimal effort and time.
