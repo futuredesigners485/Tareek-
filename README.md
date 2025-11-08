@@ -1,6 +1,7 @@
 Tareek / طريق
 
 "Project for developing a Smart and Sustainable Mass Transit System to serve Daily Urban Mobility and enhance Quality of Life in Egyptian Cities."
+
  
 Project Idea
 
@@ -14,6 +15,7 @@ The project focuses on creating a comprehensive visual and digital system that i
 •	Producing Integrated Communication Materials: Developing a full set of promotional assets like (Flyers, social media campaigns, and merchandising items) to ensure wide market reach and public awareness.
 
 •	Designing the Digital and Physical Interface: Creating user-friendly Mobile Application (UI/UX) mockups and a responsive website design, alongside visualizing key physical assets such as the bus livery and station concepts to reflect system readiness.
+
 
  
  Team Members (Future Designers)
@@ -32,10 +34,11 @@ Work Plan
 
 
 1. Research and Analysis
-   
+
 •	Defining Target Users (Personas(.
 •	Reviewing Existing Transport Services.
 •	Collecting Visual References (Mood board(.
+
 
 3. Brand Identity
    
@@ -45,7 +48,8 @@ Work Plan
 
 •	Creating the Visual Identity Usage Guide.
 
-5. Digital and System Design
+
+4. Digital and System Design
    
 •	Developing Mobile App Mockups (UI/UX(.
 
@@ -53,7 +57,8 @@ Work Plan
 
 •	Designing Physical Assets.
 
-6. Marketing and Communication Assets
+
+5. Marketing and Communication Assets
    
 •	Designing Promotional Flyers and Brochures. 
 
@@ -61,19 +66,22 @@ Work Plan
 
 •	Designing Promotional Merchandise (Mugs, Bags, T-shirts).
 
-7. Review and Finalization
+
+6. Review and Finalization
 
 •	Internal Design Review and Proofing.
 •	Preparing Final Files for Delivery and Presentation.
 •	Compiling Final Documentation and Project Report.
 
-8. Final Presentation
+
+7. Final Presentation
     
 •	Preparing the Comprehensive Visual Showcase File.
 
 •	Creating the Final Presentation Deck (PDF/Slides).
 
 •	Uploading Project Files to a Repository (e.g., GitHub).
+
 
  
 Roles & Responsibilities
@@ -121,18 +129,20 @@ Roles & Responsibilities
 
 •	Digital Marketing Posts (FB/IG) and Research Input.
 
+
  
 
 Instructor
 
 •	Eng. Mohamed Gamea
+
  
 
 Project Files
 
 You can find the full project files here:
 
- Google Drive Link: https://drive.google.com/drive/folders/1nO0WFHS7IJZrxjOiKnw5mJ0aSFES1ALJ 
+ Google Drive Link: https://drive.google.com/drive/folders/10deJYctqPN9gZtSkn9zedm8P6aBmINHC
 
 
 
