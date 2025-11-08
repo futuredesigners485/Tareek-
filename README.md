@@ -18,22 +18,15 @@ The project focuses on creating a comprehensive visual and digital system that i
  
  Team Members (Future Designers)
 
+.آمال محمود أحمد ربيع
 
- 
+.فاطمه عصام مصطفي
 
-•آمال محمود أحمد ربيع
-•
+.ندي أسامة الحصري
 
-فاطمة عصام مصطفي
-•
+.آية أحمد مهران
 
-ندي أسامه الحصري
-•	
-
-هاجر صفوت محمد
-•
-
-آية أحمد مهران
+.هاجر صفوت محمد
 
 Work Plan
 
