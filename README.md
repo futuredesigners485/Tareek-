@@ -10,7 +10,9 @@ The project focuses on creating a comprehensive visual and digital system that i
 
 
 •	Building a distinctive Brand Identity: Defining the visual elements (Logo, color palette, and typography) to establish the project's professional presence.
+
 •	Producing Integrated Communication Materials: Developing a full set of promotional assets like (Flyers, social media campaigns, and merchandising items) to ensure wide market reach and public awareness.
+
 •	Designing the Digital and Physical Interface: Creating user-friendly Mobile Application (UI/UX) mockups and a responsive website design, alongside visualizing key physical assets such as the bus livery and station concepts to reflect system readiness.
 
  
@@ -37,19 +39,25 @@ Work Plan
 3. Brand Identity
    
 •	Finalizing the Project Logo. 
+
 •	Defining the Color Palette and Fonts. 
+
 •	Creating the Visual Identity Usage Guide.
 
 5. Digital and System Design
    
 •	Developing Mobile App Mockups (UI/UX(.
+
 •	Designing the Responsive Website Interface.
+
 •	Designing Physical Assets.
 
 6. Marketing and Communication Assets
    
 •	Designing Promotional Flyers and Brochures. 
+
 •	Developing Content for Social Media Campaigns. 
+
 •	Designing Promotional Merchandise (Mugs, Bags, T-shirts).
 
 7. Review and Finalization
@@ -61,7 +69,9 @@ Work Plan
 8. Final Presentation
     
 •	Preparing the Comprehensive Visual Showcase File.
+
 •	Creating the Final Presentation Deck (PDF/Slides).
+
 •	Uploading Project Files to a Repository (e.g., GitHub).
 
  
@@ -81,25 +91,33 @@ Roles & Responsibilities
 •	فاطمة عصام
 
 •	Mobile App (UI/UX) Design and Final Files Preparation.
+
 •	Corporate Identity Collateral (Jacket Folder & Letterhead) and Brand Identity Contribution.
+
 •	Digital Marketing Posts (FB/IG) and A5 Flyer Design.
 
 •	ندي أسامة
 
 •	Lead Designer: Company Profile/Magazine (Execution Focus) & Vector Infographics.
+
 •	Promotional Calendar, A4 Flyer Design, and Digital Posts (FB/IG).
+
 •	Research & Proofing.
 
 •	آية أحمد
 
 •	Logo Design
+
 •	Corporate Stationery Design (Envelopes) & General Mockups.
+
 •	Social Media Assets (Covers, Posts) and Documentation Assistance.
 
 •	هاجر صفوت
 
 •	Outdoor & Large Format Advertising (Bill Board, Roll Up).
+
 •	Company Profile/Magazine Contribution.
+
 •	Digital Marketing Posts (FB/IG) and Research Input.
 
  
