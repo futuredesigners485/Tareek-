@@ -23,12 +23,16 @@ The project focuses on creating a comprehensive visual and digital system that i
 
 •آمال محمود أحمد ربيع
 •
+
 فاطمة عصام مصطفي
 •
+
 ندي أسامه الحصري
 •	
+
 هاجر صفوت محمد
 •
+
 آية أحمد مهران
 
 Work Plan
