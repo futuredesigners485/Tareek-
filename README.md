@@ -31,11 +31,8 @@ Work Plan
 
 
 1. Research and Analysis
-
 •	Defining Target Users (Personas(.
-
 •	Reviewing Existing Transport Services.
-
 •	Collecting Visual References (Mood board(.
 
 
