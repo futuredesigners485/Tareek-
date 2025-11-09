@@ -1,7 +1,9 @@
 Tareek / طريق
+
 "Project for developing a Smart and Sustainable Mass Transit System to serve Daily Urban Mobility and enhance Quality of Life in Egyptian Cities."
  
 Project Idea
+
 TAREEK is an innovative service project designed to introduce a highly organized and route-defined public transportation network. This system provides an effective solution to traffic congestion by operating scheduled buses that run regularly to designated stations. This ensures a reliable and fast commuting experience for all users, particularly employees, students, and citizens at large.
 
 The project focuses on creating a comprehensive visual and digital system that includes:
@@ -16,14 +18,19 @@ The project focuses on creating a comprehensive visual and digital system that i
  Team Members (Future Designers)
 
 •	
+
 آمال محمود أحمد ربيع
 •
+
 فاطمة عصام مصطفي
 •
+
 ندي أسامه الحصري
 •
+
 هاجر صفوت محمد
 •	
+
 آية أحمد مهران
  
 
@@ -87,6 +94,7 @@ Work Plan
 Roles & Responsibilities
 
 •	آمال محمود (Team Leader)
+
 •	Team Leadership, Project Documentation, and GitHub Management.
 
 •	Website Interface Design and Stationery System Design (Notebook & Cover Set).
