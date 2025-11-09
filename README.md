@@ -40,7 +40,7 @@ Work Plan
 •	Collecting Visual References (Mood board(.
 
 
-3. Brand Identity
+2. Brand Identity
    
 •	Finalizing the Project Logo. 
 
@@ -49,7 +49,7 @@ Work Plan
 •	Creating the Visual Identity Usage Guide.
 
 
-4. Digital and System Design
+3. Digital and System Design
    
 •	Developing Mobile App Mockups (UI/UX(.
 
@@ -58,7 +58,7 @@ Work Plan
 •	Designing Physical Assets.
 
 
-5. Marketing and Communication Assets
+4. Marketing and Communication Assets
    
 •	Designing Promotional Flyers and Brochures. 
 
@@ -67,14 +67,14 @@ Work Plan
 •	Designing Promotional Merchandise (Mugs, Bags, T-shirts).
 
 
-6. Review and Finalization
+5. Review and Finalization
 
 •	Internal Design Review and Proofing.
 •	Preparing Final Files for Delivery and Presentation.
 •	Compiling Final Documentation and Project Report.
 
 
-7. Final Presentation
+6. Final Presentation
     
 •	Preparing the Comprehensive Visual Showcase File.
 
