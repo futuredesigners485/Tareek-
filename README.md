@@ -17,21 +17,16 @@ The project focuses on creating a comprehensive visual and digital system that i
  
  Team Members (Future Designers)
 
-•	
+•	آمال محمود أحمد ربيع
 
-آمال محمود أحمد ربيع
-•
+• فاطمة عصام مصطفي
 
-فاطمة عصام مصطفي
-•
+• ندي أسامة الحصري
 
-ندي أسامه الحصري
-•
+• آية أحمد مهران
 
-هاجر صفوت محمد
-•	
+• هاجر صفوت محمد
 
-آية أحمد مهران
  
 
 Work Plan
@@ -93,6 +88,7 @@ Work Plan
 
 Roles & Responsibilities
 
+
 •	آمال محمود (Team Leader)
 
 •	Team Leadership, Project Documentation, and GitHub Management.
@@ -135,6 +131,7 @@ Roles & Responsibilities
 
 •	Digital Marketing Posts (FB/IG) and Research Input.
  
+
 
 Instructor
 
